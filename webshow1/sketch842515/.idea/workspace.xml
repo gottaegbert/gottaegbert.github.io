@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af9ce1dc-9350-47ca-855a-183de72fa454" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1abQbQJZY8A4P3JiPI4EPV9BmOv" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\课程2020\inforgraphic\webshow1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/sketch842515/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/sketch842515/sketch842515/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="mySketch.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../webshow1/sketch842515/sketch842515/mySketch.js" working-dir="$PROJECT_DIR$/../webshow1/sketch842515/sketch842515">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.index.html (1)" />
+        <item itemvalue="Node.js.mySketch.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af9ce1dc-9350-47ca-855a-183de72fa454" name="Default Changelist" comment="" />
+      <created>1587001886023</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587001886023</updated>
+      <workItem from="1587001890641" duration="166000" />
+      <workItem from="1587019126423" duration="4563000" />
+      <workItem from="1587026269539" duration="2397000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="265" y="59" key="#Intentions" timestamp="1587002443571">
+      <screen x="0" y="0" width="1344" height="800" />
+    </state>
+    <state x="265" y="59" key="#Intentions/0.0.1344.800@0.0.1344.800" timestamp="1587002443571" />
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom" timestamp="1587025518652">
+      <screen x="0" y="0" width="1344" height="800" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.0.1344.800@0.0.1344.800" timestamp="1587025518652" />
+    <state width="1323" height="182" key="GridCell.Tab.0.center" timestamp="1587025518652">
+      <screen x="0" y="0" width="1344" height="800" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.center/0.0.1344.800@0.0.1344.800" timestamp="1587025518652" />
+    <state width="1323" height="182" key="GridCell.Tab.0.left" timestamp="1587025518652">
+      <screen x="0" y="0" width="1344" height="800" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.left/0.0.1344.800@0.0.1344.800" timestamp="1587025518652" />
+    <state width="1323" height="182" key="GridCell.Tab.0.right" timestamp="1587025518652">
+      <screen x="0" y="0" width="1344" height="800" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1344.800@0.0.1344.800" timestamp="1587025518652" />
+    <state x="341" y="117" width="662" height="566" key="find.popup" timestamp="1587023104175">
+      <screen x="0" y="0" width="1344" height="800" />
+    </state>
+    <state x="341" y="117" width="662" height="566" key="find.popup/0.0.1344.800@0.0.1344.800" timestamp="1587023104175" />
+    <state x="329" y="54" width="670" height="676" key="search.everywhere.popup" timestamp="1587023623578">
+      <screen x="0" y="0" width="1344" height="800" />
+    </state>
+    <state x="329" y="54" width="670" height="676" key="search.everywhere.popup/0.0.1344.800@0.0.1344.800" timestamp="1587023623578" />
+  </component>
+</project>
