@@ -24,7 +24,7 @@ this.show = function(){
     strokeWeight(1.5);
   }
 
-  fill('#a4eeec');
+  fill('#1082d7');
 
   noStroke();
   //画表情就行！
