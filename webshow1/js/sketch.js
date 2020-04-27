@@ -14,7 +14,7 @@ var circles = [];
 var mConstraint;
 
 let t = ["😘","😎","😊","😍","😱","🤣","🙄","🤔","😭","😡","🤭","😂","😣","😓","😔"];
-let r= [.4,.3,.3,.3,.3,1,1,.3,.2,.2,.2,.9,.7,.5,.9];//调整表情大小？？？？或者数目
+let r= [.4,3,.3,.32,.1,1,2,.3,.2,2,.2,1.9,.7,5,.9];//调整表情大小？？？？或者数目
 
 
 function setup () {
@@ -70,7 +70,7 @@ function draw () {
 	// textAlign(LEFT);
 	// text("I'm a data visualization designer who is curiosity of data, design and coding. I create elegant and creative vis to tell story. Besides, I have been made ten effective and effient design tools. Have fun：）", width/2-200, height*0.42,size*20,900);
 
-	text("TRENDING!", width/2, height*0.3 );
+	text("Emoji!", width/2, height*0.3 );
 	textSize(size);
 	textAlign(CENTER);
 	text("小表情是微博里面用的最多的东西", width/2, height*0.4);
