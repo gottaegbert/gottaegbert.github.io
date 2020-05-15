@@ -61,17 +61,13 @@ function draw () {
 
 	fill('#434343');
 	noStroke();
-	var size = map(windowWidth,375,500,1,3);
-	textSize(size*20);
+	var size = map(windowWidth,300,500,1,3);
+	textSize(size*10);
 	textAlign(CENTER);
-	textSize(size*2.5);//改大小
-	// text("HI, I'm Yasai", width/2, height*0.4 );
-	// textSize(20);
-	// textAlign(LEFT);
-	// text("I'm a data visualization designer who is curiosity of data, design and coding. I create elegant and creative vis to tell story. Besides, I have been made ten effective and effient design tools. Have fun：）", width/2-200, height*0.42,size*20,900);
+
 
 	text("Emoji!", width/2, height*0.3 );
-	textSize(size);
+	textSize(size*1880/windowWidth);
 	textAlign(CENTER);
 	text("小表情是微博里面用的最多的东西", width/2, height*0.4);
 	text("它们简简单单，但藏在手机另一头的发送者的情绪却很复杂", width/2, height*0.48);
