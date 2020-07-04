@@ -24,7 +24,7 @@ this.show = function(){
     strokeWeight(1.5);
   }
 
-  fill('#1082d7');
+  fill('#2e75af');
 
   noStroke();
   //画表情就行！
@@ -34,8 +34,8 @@ this.show = function(){
   stroke(255,100);
   strokeWeight(3);
   noFill();
-  arc(0, 0, this.r*2*0.85, this.r*2*0.85, -PI/2, -PI/4);
-  arc(0, 0, this.r*2*0.85, this.r*2*0.85, -PI/5, -PI/7);
+  arc(0, 0, this.r*2*0.85, this.r*2*0.85, -PI/2+PI, -PI/4+PI);
+  arc(0, 0, this.r*2*0.85, this.r*2*0.85, -PI/5+PI, -PI/7+PI);
   fill(250);
   noStroke();
   textSize(this.r);
