@@ -2340,6 +2340,10 @@ input, select, textarea {
 		cursor: default;
 		list-style: none;
 		padding-left: 0;
+		text-align: center;
+		padding-top: 3em;
+
+
 	}
 
 		ul.icons li {
@@ -3707,6 +3711,7 @@ input, select, textarea {
 		font-size: 0.8em;
 		list-style: none;
 		padding-left: 0;
+		text-align: center;
 	}
 
 		#footer .copyright li {
